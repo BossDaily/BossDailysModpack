@@ -1,0 +1,11 @@
+name = "ReplayMod"
+filename = "replaymod-1.18.1-2.6.3.jar"
+side = "both"
+
+[download]
+url = "https://www.replaymod.com/download/download_new.php?version=1.18.1-2.6.3"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "F660141C2ABA44B474093E53420C086E7823B0B4D8D0003F9EABB2C0F10BCFE9"
