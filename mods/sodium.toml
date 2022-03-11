@@ -8,4 +8,4 @@ url = "https://www.replaymod.com/download/sodium-fabric-mc1.18.1-0.4.0-alpha6+re
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "709DE6FDE9C46F2EAA4AA6417A22CA7868BAE1312E0ED29E7DD513B21C1A1376"
+hash = "CAD42DFB8B8799DD54FF82429ACEA935EAA50F786B69880D7B4272BAF92B1DBF"
