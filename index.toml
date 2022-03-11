@@ -161,6 +161,11 @@ hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
 metafile = true
 
 [[files]]
+file = "mods/litematica.toml"
+hash = "02f95e2d731ffd48b58a2a89b5ec6722d7d92c9613224c646aebf31846e6b3c9"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "5a5c6174eda3db8594761efaf64308c44702b3f2a25957b0c35825b0109a1ef0"
 metafile = true
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "cf430dc512c8d27977f5512a30c9005ee87947678b82f7ad96a962f74235bf1c"
+hash = "a9276888dd34b084ecccc0433fe3a40545a1f8f625e98e860aa917cb8d159580"
 metafile = true
 
 [[files]]
@@ -232,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "6779ae9b6c9c2f7d278bf29441dbca51b577063fec0f21544c878f69d847872e"
+hash = "bbc917a5f91f7b4cc5f8b582e0661bcf1e234d09bffe237579eb199c859b8cc4"
 metafile = true
 
 [[files]]
