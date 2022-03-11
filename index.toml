@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "706dfaef55d666502cbb27309ef3b7a7e281078b7275f8025c3698c553cd1b38"
+hash = "b8f2d4e84622a78484fe04bb0713d2a6819c624a09614a83ff4815cca56d6cc0"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "2589477b86c240cfbad7c6a0c64893297ff2c00e0b5cb362cb1609d675ae88bc"
+hash = "7bda5ee031e0ce626bdc67e49b9c7c6f74eb2c3e1d957f32111e0f4f47e70344"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
+hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.toml"
-hash = "38be56bf71e26717931af746e592a2194d9793f6d9326b3b650783992e50a0f4"
+hash = "26d8195479171930b6ec8980f4c05991f62409bac4bdfc465fc78ff026a5473f"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "fb0f052a0ca1141cc44dc17a503298c1e7caf88b63416908251e3367e72c7ef8"
+hash = "48d7d8ddf473e8877ac11527859219badc30e0e9732200100ef206bc7d08cb65"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "74b003ba681af96e0a5a2fdf098a14f797fe3c7238b677f62dcf394577e38f15"
+hash = "edaa49a145c832fcb83ec0b8556852c330e925f4bedae1b9baf4e067a20709d5"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "4ea85e349b52c99bbb8fded34116483d8cd568d058cc64a542560b8b4b059038"
+hash = "5bf09f554b7669f896b929fe49cc3d438ff5d03c777e811f9e7e3fa4115b0ff3"
 metafile = true
 
 [[files]]
