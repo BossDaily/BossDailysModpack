@@ -180,11 +180,6 @@ hash = "ebc13481934dc3a89e106154b4650bf52a68e5abe07573efc81ebc927d479a3f"
 metafile = true
 
 [[files]]
-file = "mods/dont-clear-chat-history.toml"
-hash = "2b5bbf8ae407ac136008b47372a41bd136cd6eb8c5f76fc5a403164b95aa0bbe"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
 metafile = true
