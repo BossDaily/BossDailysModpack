@@ -1,13 +1,13 @@
-name = "BossDailys SMP pack"
+name = "BossDaily's Modpack v2"
 author = "BossDaily"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ee943a0538dc5d4daaa69dc7872072485d230544769842b74465e50ac7d2f349"
+hash = "1210358125ffd24baef68013efbfef075ef7a1aff612b4ea1db21547b4cf7bdb"
 
 [versions]
 fabric = "0.13.3"
-minecraft = "1.18.1"
+minecraft = "1.18.2"
