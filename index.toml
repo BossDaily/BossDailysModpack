@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.toml"
-hash = "224007230b67b8319ab69268a3afbb4f9cd92a3f50a75f84320dd4dc39cdc25e"
+hash = "69b74bbfe190074a1aca83d0f2e780f263810a20f05d72e1db35907785c02835"
 metafile = true
 
 [[files]]
