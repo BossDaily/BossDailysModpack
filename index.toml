@@ -362,6 +362,11 @@ hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "81836f67133273b4c5a23c7ec57a8cfeed06d64d56c29686242532971882178d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "af87a5bb795319ee0625fedc76a0c93de1ca85de09226c9c0d1f9b59faf708bf"
 metafile = true
@@ -372,6 +377,11 @@ hash = "198084fae4ff7ee526c4d1b82b82f36585445d2c07b5f1c82e4121724c81400f"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "9d9b3772d9e12b474675846005279f4b3957711744a550ab14284ed4187fc270"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "1abc45ec5aedf9af2ac6e1a1a5bfb8f92ccafa6395a4c77c20e32adb47ee4426"
 metafile = true
@@ -379,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "0051fefa10d4abd486f02513b86e7c8b7ee24d69dac182c421548d7ec7617f42"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "4dd0a7589833be6441edea5369f06fe7f8a01d758b685a7792f99b5cf4175888"
 metafile = true
 
 [[files]]
@@ -439,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "5520c1dc76ba02ac7ab0648ca5facc2e5e65e6f98b5bc1c9b95d6f8be8280238"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "2bf332f43dd6858e29e18da850bdcc9bf2492dbc70034f9563f0083099c22f39"
 metafile = true
 
 [[files]]
