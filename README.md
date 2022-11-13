@@ -3,31 +3,30 @@ This is my modpack for technical, and survival SMPs
 
 # PLEASE NOTE MODS LIKE TWEAKROO AND ITEM SCROLLER MIGHT BE BANNED IN CERTAIN SMPS, PLEASE CHECK YOUR SERVER'S RULES BEFORE INSTALLING THIS MODPACK
 
-# Modlist
+# Modlist 
 
 - AdvancementInfo
 - Animatica
 - AntiGhost
-- Architectury API (Fabric/Forge)
-- Better Beds
 - Better Mount HUD
 - Borderless Mining
 - Fabric Capes
 - CIT Resewn
-- Cloth API (Fabric)
 - Cloth Config API (Fabric/Forge)
 - Colormatic
-- CompleteConfig
 - Continuity
 - Cull Less Leaves
 - Custom Entity Models (CEM)
 - Debugify
-- Don't Clear Chat History
 - Dynamic FPS
 - Enhanced Block Entities
 - Entity Texture Features - [Fabric & Forge]
+- Entity Culling Fabric/Forge
+- ESSENTIAL Mod
 - Fabric API
 - Fabric Language Kotlin
+- FabricSkyBoxes Interop
+- FabricSkyboxes
 - Fabrishot
 - Farsight [Fabric]
 - FerriteCore (Fabric)
@@ -38,25 +37,31 @@ This is my modpack for technical, and survival SMPs
 - LambDynamicLights
 - Language Reload
 - LazyDFU
-- **Litematica**
+- Litematica
 - Lithium (Fabric)
 - Main Menu Credits
-- **MaLiLib**
+- MaLiLib
 - MemoryLeakFix
-- MidnightLib
-- **MiniHUD**
-- **Mod Menu**
+- MidnightControls
+- MiniHUD
+- Mixin Conflict Helper
+- MixinTrace
+- Mod Menu
 - More Chat History
+- No Chat Reports
 - No Fade
-- Not Enough Crashes (Fabric)
 - OptiGUI
+- Plasmo Voice
 - Puzzle
 - Reese's Sodium Options
+- Simple Discord RPC [Forge/Fabric/Quilt]
 - Smooth Boot (Fabric)
 - Sodium Extra
 - Sodium
 - Starlight (Fabric)
-- ToolTipFix
-- **Tweakeroo**
+- Tweakeroo
+- WorldEdit
+- WorldEdit CUI (Fabric)
+- YetAnotherConfigLib
 - Your Options Shall Be Respected (YOSBR)
 - Zoomify
