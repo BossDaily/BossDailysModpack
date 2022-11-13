@@ -1,9 +1,0 @@
-name = "Replay Mod"
-filename = "replaymod-1.18.2-2.6.4.jar"
-side = "both"
-
-[download]
-url = "https://www.replaymod.com/download/download_new.php?version=1.18.2-2.6.4"
-hash-format = "sha1"
-hash = "76326CB49C8A81F2D0957EDD70D3DC1FA67A0274"
-
