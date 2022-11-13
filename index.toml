@@ -277,11 +277,6 @@ hash = "b8ea6091c79c1905cba6c53e911758acdc6a25bf0a5434ed6f8e9ee3b937809e"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "9c47af1e8926a86dbfc7dc526af0fa64d1e9fc6db8368495d4a7ce989918f61c"
-metafile = true
-
-[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "3e9da2ff04ee799c2f7c5a166e5b5f582542c8e0838ec4e6634aeff5ab385d34"
 metafile = true
