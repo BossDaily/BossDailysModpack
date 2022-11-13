@@ -1,0 +1,13 @@
+name = "Zoomify"
+filename = "Zoomify-2.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "903a6b92da59e1ba8268b7983e3e3b6d619ca25e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4027846
+project-id = 574741
