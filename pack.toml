@@ -1,13 +1,13 @@
-name = "BossDailys Modpack"
+name = "BossDaily's Modpack"
 author = "BossDaily"
-version = "3.0.0"
+version = "4.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f8ed1f36bfcea2c5fd4757c88703c204e93f394d25df2bf1fdea75872d47a934"
+hash = "a25f9ab45a5f740635b95e8b909b2fbe6845d4e9e64dc54c20f91142b1af8b6a"
 
 [versions]
-fabric = "0.14.6"
-minecraft = "1.19"
+fabric = "0.14.10"
+minecraft = "1.19.2"

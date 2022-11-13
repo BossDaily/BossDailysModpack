@@ -1,13 +1,13 @@
 name = "Debugify"
-filename = "debugify-2.3.2-fabric-1.19.jar"
+filename = "Debugify-2.8.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "928674a817a9fe6d025583a486b15f14bebe9edf"
+hash = "34bed20ce5145eeaac14ada47aa9f269ef2cc3b5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3888651
+file-id = 4060233
 project-id = 596224
